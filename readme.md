@@ -1,1 +1,1 @@
-https://consolecrafter.de
+http://consolecrafter.de
